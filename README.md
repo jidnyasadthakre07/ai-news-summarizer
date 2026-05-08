@@ -8,8 +8,7 @@ This project demonstrates practical applications of **Generative AI, Prompt Engi
 
 # 🚀 Live Demo
 
-[🚀 Open Live Demo](https://huggingface.co/spaces/Jidnyasa11/AI-News-Summarizer)
-
+### 🚀 [Launch App](https://huggingface.co/spaces/Jidnyasa11/AI-News-Summarizer)
 ---
 
 # 📌 Features
