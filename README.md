@@ -265,17 +265,9 @@ This project demonstrates:
 
 ---
 
-# 🤝 Contributing
-
-Contributions, feature requests, and suggestions are welcome.
-
-Feel free to fork this repository and improve the project.
-
----
-
 # 👨‍💻 Author
 
-your name
+Jidnyasa Thakre
 
 GitHub: https://github.com/jidnyasadthakre07 
 LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
