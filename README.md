@@ -8,10 +8,8 @@ This project demonstrates practical applications of **Generative AI, Prompt Engi
 
 # 🚀 Live Demo
 
-> Add your Hugging Face Spaces link here after deployment.
-
 ```text
-https://huggingface.co/spaces/your-username/ai-news-summarizer
+https://huggingface.co/spaces/Jidnyasa11/AI-News-Summarizer
 ```
 
 ---
@@ -123,7 +121,7 @@ NEWS-AI-PROJECT/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-news-summarizer.git
+git clone https://github.com/jidnyasadthakre07/ai-news-summarizer.git
 ```
 
 ## 2. Navigate to Project Folder
